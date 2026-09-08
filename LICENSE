@@ -1,0 +1,103 @@
+Research-Only Non-Commercial Software License 1.0
+LicenseRef-Research-Only-NonCommercial-1.0
+
+Copyright (c) 2026 SwaggyClancy. All rights reserved except as expressly
+provided in this License.
+
+1. DEFINITIONS
+
+"Software" means the source code, documentation, tests, configuration examples,
+and other original materials distributed with this License, including modified
+versions and derivative works based on them.
+
+"Permitted Research" means non-commercial academic or scientific research,
+including student coursework, bachelor's and master's theses, dissertations,
+peer-reviewed or academic articles, and reproducibility studies, provided that
+the activity is not performed for commercial advantage or monetary compensation
+other than ordinary scholarships, academic stipends, or salaried employment at
+a non-profit educational or research institution.
+
+"Commercial Use" means use whose primary purpose is commercial advantage or
+monetary compensation, including internal use by a for-profit organization,
+consulting or contract work, paid data collection, advertising-supported use,
+use in a commercial product or service, software-as-a-service, resale,
+licensing for a fee, or sale of datasets produced primarily through the
+Software.
+
+2. RESEARCH LICENSE GRANT
+
+Subject to all terms of this License, the Copyright Holder grants you a
+worldwide, royalty-free, non-exclusive, non-transferable license to use, copy,
+study, modify, and distribute the Software solely for Permitted Research.
+You may publish research findings produced with the Software and may include
+limited excerpts reasonably necessary to explain or reproduce the methodology.
+
+3. CONDITIONS
+
+Every copy or substantial portion of the Software, including a modified copy,
+must retain this License, the copyright notice, and a prominent notice of any
+modifications. Distribution of the Software or a derivative work is permitted
+only under this same License. Academic publications and theses using the
+Software must provide reasonable attribution to "SwaggyClancy" and, where
+practicable, a link to the original repository.
+
+4. PROHIBITED USES
+
+You may not use the Software for Commercial Use; sell, sublicense, rent, host,
+or provide it as a paid service; sell or commercially license datasets created
+primarily with it; remove or misrepresent authorship or license notices; claim
+that this License is OSI-approved; or use the Software to circumvent
+authentication, CAPTCHA, rate limits, technical protection measures, or other
+access controls.
+
+Commercial rights may be granted only by a separate written agreement signed
+by the Copyright Holder.
+
+5. LAWFUL AND RESPONSIBLE USE
+
+This License grants rights only in the Copyright Holder's Software. It does not
+grant permission to access any website, API, account, database, content, or
+computer system; waive terms of service; or grant rights in third-party data,
+database rights, trademarks, or copyrighted materials.
+
+You are solely responsible for determining whether your collection, storage,
+analysis, and publication of data are lawful and permitted. You must comply
+with applicable law, website terms, access restrictions, privacy requirements,
+intellectual-property rights, and reasonable request-rate limits. The Software
+must not be used for unauthorized access, disruption, surveillance, profiling
+of individuals, or collection of credentials or authentication information.
+
+6. THIRD-PARTY MATERIALS AND DATA
+
+No rights are granted to third-party libraries, websites, APIs, product names,
+trademarks, or data merely because they are referenced by or processed with the
+Software. Such materials remain subject to their respective terms and rights.
+Sample responses are provided for research reproducibility; no ownership of
+third-party catalog information is claimed.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, ACCURACY, LEGAL COMPLIANCE, AVAILABILITY, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE
+FOR ANY CLAIM, DAMAGES, LOSS OF DATA, ACCOUNT RESTRICTION, INTERRUPTION,
+REGULATORY CONSEQUENCE, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+9. TERMINATION
+
+Rights terminate automatically upon violation. You must stop using and
+distributing the Software and delete copies under your control, except copies
+that applicable law requires you to retain. Sections 4 through 10 survive.
+
+10. ENTIRE LICENSE AND SEVERABILITY
+
+This License is the entire permission granted by the Copyright Holder for the
+Software. If any provision is unenforceable, the remaining provisions continue
+to apply. Failure to enforce a provision is not a waiver.
+
+By using, copying, modifying, or distributing the Software, you accept these
+terms. If you do not accept them, you receive no permission to use the Software.

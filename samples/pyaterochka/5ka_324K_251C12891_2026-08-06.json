@@ -1,0 +1,1785 @@
+[
+  {
+    "plu": 58625,
+    "name": "Блины с ветчиной и сыром Морозко 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1158569-main/320x320.jpeg?updated_at=2025-03-03T18:08:01.471Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1158569-main/800x800.jpeg?updated_at=2025-03-03T18:08:01.471Z",
+        "https://catalog-images.x5static.net/product/0ff90b92fb7d211238b7f3f28be46b66-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/e003f89a752b0391fd6b76fb42d1cc42-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/f5e3beb42ec8cbfdc81f15bf89a45408-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.86,
+      "rates_count": 1691
+    },
+    "promo": null,
+    "prices": {
+      "regular": "173.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "29.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1158569-main/320x320.jpeg?updated_at=2025-03-03T18:08:01.471Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1158569-main/800x800.jpeg?updated_at=2025-03-03T18:08:01.471Z",
+          "https://catalog-images.x5static.net/product/0ff90b92fb7d211238b7f3f28be46b66-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/e003f89a752b0391fd6b76fb42d1cc42-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/f5e3beb42ec8cbfdc81f15bf89a45408-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 58616,
+    "name": "Блинчики с мясом Морозко замороженные 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1158567-main/320x320.jpeg?updated_at=2025-02-21T09:01:03.429Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1158567-main/800x800.jpeg?updated_at=2025-02-21T09:01:03.429Z",
+        "https://catalog-images.x5static.net/product/a2a16578b50ee4eb8aa0635a1aa22e6d-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.9,
+      "rates_count": 6448
+    },
+    "promo": null,
+    "prices": {
+      "regular": "144.99",
+      "discount": "129.99",
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "-10%",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "40.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1158567-main/320x320.jpeg?updated_at=2025-02-21T09:01:03.429Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1158567-main/800x800.jpeg?updated_at=2025-02-21T09:01:03.429Z",
+          "https://catalog-images.x5static.net/product/a2a16578b50ee4eb8aa0635a1aa22e6d-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 3993220,
+    "name": "Блинчики с мясом Красная цена 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1199204-main/320x320.jpeg?updated_at=2025-04-03T09:18:25.212Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1199204-main/800x800.jpeg?updated_at=2025-04-03T09:18:25.212Z"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.82,
+      "rates_count": 6654
+    },
+    "promo": null,
+    "prices": {
+      "regular": "169.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "19.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1199204-main/320x320.jpeg?updated_at=2025-04-03T09:18:25.212Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1199204-main/800x800.jpeg?updated_at=2025-04-03T09:18:25.212Z"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 3269961,
+    "name": "Блины с вишней С Пылу с Жару 360г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1164761-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1164761-main/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.84,
+      "rates_count": 987
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "199.99",
+      "discount": null,
+      "cpd_promo_price": "124.99",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "360 г",
+    "has_age_restriction": false,
+    "stock_limit": "8.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1164761-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1164761-main/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4362582,
+    "name": "Сырники Вкус & Польза творожные 340г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1620261-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.766Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1620261-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.766Z",
+        "https://catalog-images.x5static.net/product/308f51d6a83a7aa00f256f0b1b0ceb15-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/26043ae72d572eff016fbf6aaa0e4867-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.9,
+      "rates_count": 2132
+    },
+    "promo": null,
+    "prices": {
+      "regular": "254.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "340 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1620261-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.766Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1620261-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.766Z",
+          "https://catalog-images.x5static.net/product/308f51d6a83a7aa00f256f0b1b0ceb15-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/26043ae72d572eff016fbf6aaa0e4867-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 140,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4295340,
+    "name": "Бутерброд Freshclub с ветчиной 115г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1507800-main/320x320.jpeg?updated_at=2025-02-13T14:07:14.319Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1507800-main/800x800.jpeg?updated_at=2025-02-13T14:07:14.319Z",
+        "https://catalog-images.x5static.net/product/befe330ea4c9782f010c865f2e4163fe-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.8,
+      "rates_count": 2987
+    },
+    "promo": {
+      "econombo": {
+        "include_categories": [
+          "251C52986",
+          "251C21610",
+          "251C15556"
+        ]
+      }
+    },
+    "prices": {
+      "regular": "114.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Комбо",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "115 г",
+    "has_age_restriction": false,
+    "stock_limit": "11.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1507800-main/320x320.jpeg?updated_at=2025-02-13T14:07:14.319Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1507800-main/800x800.jpeg?updated_at=2025-02-13T14:07:14.319Z",
+          "https://catalog-images.x5static.net/product/befe330ea4c9782f010c865f2e4163fe-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4216695,
+    "name": "Каша Рисовая на молоке Пятёрочка Кафе 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1447218-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1447218-main/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/9c65b94b42ce549d90b1606d6ceebf8f-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/e8510b36f8d00899f6066eee213329d1-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/3c07a39944886b2c3660f6c0aab8d9a2-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.92,
+      "rates_count": 16986
+    },
+    "promo": null,
+    "prices": {
+      "regular": "99.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Выгодно",
+        "icon_url": null,
+        "bg_color": "#FBAC29",
+        "text_color": "#130000"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1447218-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1447218-main/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/9c65b94b42ce549d90b1606d6ceebf8f-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/e8510b36f8d00899f6066eee213329d1-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/3c07a39944886b2c3660f6c0aab8d9a2-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 69,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4213985,
+    "name": "Сырники жареные Пятёрочка Кафе, 220г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1446720-main/320x320.jpeg?updated_at=2026-01-30T14:08:27.321Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1446720-main/800x800.jpeg?updated_at=2026-01-30T14:08:27.321Z",
+        "https://catalog-images.x5static.net/product/f4b498aefa69f5890ca93cb24c1f464a-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/d61131e3f132c3b9003f270cce5eb5e4-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/4e299c35295a0fc1ad2412dae16ae4b6-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.82,
+      "rates_count": 1442
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "179.99",
+      "discount": null,
+      "cpd_promo_price": "152.99",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "220 г",
+    "has_age_restriction": false,
+    "stock_limit": "4.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1446720-main/320x320.jpeg?updated_at=2026-01-30T14:08:27.321Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1446720-main/800x800.jpeg?updated_at=2026-01-30T14:08:27.321Z",
+          "https://catalog-images.x5static.net/product/f4b498aefa69f5890ca93cb24c1f464a-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/d61131e3f132c3b9003f270cce5eb5e4-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/4e299c35295a0fc1ad2412dae16ae4b6-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 58623,
+    "name": "Блины с творогом Морозко 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1158568-main/320x320.jpeg?updated_at=2025-02-21T09:01:03.505Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1158568-main/800x800.jpeg?updated_at=2025-02-21T09:01:03.505Z"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.92,
+      "rates_count": 1245
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "199.99",
+      "discount": null,
+      "cpd_promo_price": "129.99",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "25.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1158568-main/320x320.jpeg?updated_at=2025-02-21T09:01:03.505Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1158568-main/800x800.jpeg?updated_at=2025-02-21T09:01:03.505Z"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 3650523,
+    "name": "Сэндвич ролл с курицей Freshclub 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1186092-main/320x320.jpeg?updated_at=2025-02-13T14:07:41.809Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1186092-main/800x800.jpeg?updated_at=2025-02-13T14:07:41.809Z",
+        "https://catalog-images.x5static.net/product/de6a8fd6fb764cf63ef1849a964e0975-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/6a00e985f2032f33dfefc798a116bbfc-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.81,
+      "rates_count": 1920
+    },
+    "promo": {
+      "econombo": {
+        "include_categories": [
+          "251C52986",
+          "251C21610",
+          "251C15556"
+        ]
+      }
+    },
+    "prices": {
+      "regular": "189.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Комбо",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "3.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1186092-main/320x320.jpeg?updated_at=2025-02-13T14:07:41.809Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1186092-main/800x800.jpeg?updated_at=2025-02-13T14:07:41.809Z",
+          "https://catalog-images.x5static.net/product/de6a8fd6fb764cf63ef1849a964e0975-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/6a00e985f2032f33dfefc798a116bbfc-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4293803,
+    "name": "Сэндвич-ролл с ветчиной и сыром Пятерочка Кафе 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1506364-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1506364-main/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/8323777cd0f6ce95aa09307512266b65-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/d9918a8da9ff812349251f49211c640e-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/de1d3a5a9d142e202dec8848b68ced2a-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.76,
+      "rates_count": 2277
+    },
+    "promo": {
+      "econombo": {
+        "include_categories": [
+          "251C52986",
+          "251C21610",
+          "251C15556"
+        ]
+      }
+    },
+    "prices": {
+      "regular": "179.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Комбо",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1506364-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1506364-main/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/8323777cd0f6ce95aa09307512266b65-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/d9918a8da9ff812349251f49211c640e-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/de1d3a5a9d142e202dec8848b68ced2a-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4341987,
+    "name": "Сэндвич с курицей и беконом Пятёрочка Кафе 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1599203-main/320x320.jpeg?updated_at=2025-04-01T15:01:36.636Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1599203-main/800x800.jpeg?updated_at=2025-04-01T15:01:36.636Z",
+        "https://catalog-images.x5static.net/product/61a339b30d0d6c83933abeb135d57ff7-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/d4f63980a37a7434432239bea8ea2a7f-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.76,
+      "rates_count": 5202
+    },
+    "promo": {
+      "econombo": {
+        "include_categories": [
+          "251C52986",
+          "251C21610",
+          "251C15556"
+        ]
+      }
+    },
+    "prices": {
+      "regular": "189.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Комбо",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "3.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1599203-main/320x320.jpeg?updated_at=2025-04-01T15:01:36.636Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1599203-main/800x800.jpeg?updated_at=2025-04-01T15:01:36.636Z",
+          "https://catalog-images.x5static.net/product/61a339b30d0d6c83933abeb135d57ff7-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/d4f63980a37a7434432239bea8ea2a7f-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 5396,
+    "name": "Блины с мясом курицы Морозко 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1592756-main/320x320.jpeg?updated_at=2025-02-21T09:00:48.387Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1592756-main/800x800.jpeg?updated_at=2025-02-21T09:00:48.387Z"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.86,
+      "rates_count": 1148
+    },
+    "promo": null,
+    "prices": {
+      "regular": "189.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "25.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1592756-main/320x320.jpeg?updated_at=2025-02-21T09:00:48.387Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1592756-main/800x800.jpeg?updated_at=2025-02-21T09:00:48.387Z"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4343538,
+    "name": "Сырники классические с изюмом Пятёрочка Кафе 220г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1619893-main/320x320.jpeg?updated_at=2025-07-16T16:49:42.440Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1619893-main/800x800.jpeg?updated_at=2025-07-16T16:49:42.440Z",
+        "https://catalog-images.x5static.net/product/0af9a04d03792961ffc2a98c472ab5ee-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/3cffe90ce4ef7031e666bd4f6d6a5296-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.82,
+      "rates_count": 932
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "179.99",
+      "discount": null,
+      "cpd_promo_price": "152.99",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "220 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1619893-main/320x320.jpeg?updated_at=2025-07-16T16:49:42.440Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1619893-main/800x800.jpeg?updated_at=2025-07-16T16:49:42.440Z",
+          "https://catalog-images.x5static.net/product/0af9a04d03792961ffc2a98c472ab5ee-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/3cffe90ce4ef7031e666bd4f6d6a5296-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4362366,
+    "name": "Запеканка Вкус & Польза творожная с черной смородиной 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1620555-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.739Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1620555-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.739Z",
+        "https://catalog-images.x5static.net/product/039faa5ab02b3089cdb37aa5b6f35d9b-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/1f3a123627b2c2707644b7fab50bb1cd-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.84,
+      "rates_count": 1865
+    },
+    "promo": null,
+    "prices": {
+      "regular": "189.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "3.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1620555-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.739Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1620555-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.739Z",
+          "https://catalog-images.x5static.net/product/039faa5ab02b3089cdb37aa5b6f35d9b-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/1f3a123627b2c2707644b7fab50bb1cd-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4362369,
+    "name": "Запеканка Вкус & Польза творожная с яблоком и корицей 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1620554-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.872Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1620554-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.872Z"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.89,
+      "rates_count": 1706
+    },
+    "promo": null,
+    "prices": {
+      "regular": "189.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "3.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1620554-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.872Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1620554-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.872Z"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4355908,
+    "name": "Сэндвич с ветчиной Пятёрочка Кафе 185г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1611912-main/320x320.jpeg?updated_at=2025-04-06T15:01:44.992Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1611912-main/800x800.jpeg?updated_at=2025-04-06T15:01:44.992Z",
+        "https://catalog-images.x5static.net/product/e46726f4916d3f916c5853a651001218-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/ff97b9b6f86d5e4ca0acc80e9f33d946-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.79,
+      "rates_count": 3635
+    },
+    "promo": {
+      "econombo": {
+        "include_categories": [
+          "251C52986",
+          "251C21610",
+          "251C15556"
+        ]
+      }
+    },
+    "prices": {
+      "regular": "179.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "Комбо",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "185 г",
+    "has_age_restriction": false,
+    "stock_limit": "3.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1611912-main/320x320.jpeg?updated_at=2025-04-06T15:01:44.992Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1611912-main/800x800.jpeg?updated_at=2025-04-06T15:01:44.992Z",
+          "https://catalog-images.x5static.net/product/e46726f4916d3f916c5853a651001218-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/ff97b9b6f86d5e4ca0acc80e9f33d946-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4362581,
+    "name": "Сырнички Вкус & Польза с вишней 120г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1620260-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.676Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1620260-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.676Z",
+        "https://catalog-images.x5static.net/product/265536c50226493f615bde450a325a00-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.91,
+      "rates_count": 2440
+    },
+    "promo": null,
+    "prices": {
+      "regular": "124.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "120 г",
+    "has_age_restriction": false,
+    "stock_limit": "4.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1620260-main/320x320.jpeg?updated_at=2025-02-19T13:28:37.676Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1620260-main/800x800.jpeg?updated_at=2025-02-19T13:28:37.676Z",
+          "https://catalog-images.x5static.net/product/265536c50226493f615bde450a325a00-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4430781,
+    "name": "Блинчики Папа Может с ветчиной и сыром, 180г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2117120-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2117120-main/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/44a165de78f7c216ad2ba5783308bd1f-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/907ebb90a6095255cca49220a6409f3c-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/04a055b66a23a7b30ac032f0be7a96ed-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.78,
+      "rates_count": 7423
+    },
+    "promo": null,
+    "prices": {
+      "regular": "134.99",
+      "discount": "79.99",
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "-41%",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "180 г",
+    "has_age_restriction": false,
+    "stock_limit": "23.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2117120-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2117120-main/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/44a165de78f7c216ad2ba5783308bd1f-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/907ebb90a6095255cca49220a6409f3c-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/04a055b66a23a7b30ac032f0be7a96ed-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4430786,
+    "name": "Блинчики Папа может круглые с творогом, 180г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2117121-main/320x320.jpeg?updated_at=2026-01-20T09:43:08.084Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2117121-main/800x800.jpeg?updated_at=2026-01-20T09:43:08.084Z",
+        "https://catalog-images.x5static.net/product/ccdd6edeea0a5e08b1328abedc57c6b4-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/e7d5caf40743ff7f2f413bee9189ebc2-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/78285feb7d91d6447ee99c26a646b358-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.82,
+      "rates_count": 6381
+    },
+    "promo": null,
+    "prices": {
+      "regular": "119.99",
+      "discount": "79.99",
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "-33%",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "180 г",
+    "has_age_restriction": false,
+    "stock_limit": "20.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2117121-main/320x320.jpeg?updated_at=2026-01-20T09:43:08.084Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2117121-main/800x800.jpeg?updated_at=2026-01-20T09:43:08.084Z",
+          "https://catalog-images.x5static.net/product/ccdd6edeea0a5e08b1328abedc57c6b4-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/e7d5caf40743ff7f2f413bee9189ebc2-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/78285feb7d91d6447ee99c26a646b358-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4216694,
+    "name": "Каша Овсяная на молоке Пятёрочка Кафе 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1446476-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1446476-main/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/ae0c08e46ee8a2ea1169f0cb8cf9bbf4-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/8f9a80a27a479da5c21a03195985292f-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/1c50009ee2b31b0084157d3e8417ac2d-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/1e3e9120b58ec6b3147ead17a8b86f69-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.9,
+      "rates_count": 7345
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "99.99",
+      "discount": null,
+      "cpd_promo_price": "84.99",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "8.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1446476-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1446476-main/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/ae0c08e46ee8a2ea1169f0cb8cf9bbf4-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/8f9a80a27a479da5c21a03195985292f-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/1c50009ee2b31b0084157d3e8417ac2d-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/1e3e9120b58ec6b3147ead17a8b86f69-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4405210,
+    "name": "Хумус Классический Пятёрочка Кафе, 200г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2007992-main/320x320.jpeg"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2007992-main/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/c5a8874dd78cb49afd38e5f3ee41a589-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.77,
+      "rates_count": 2410
+    },
+    "promo": {
+      "rebate": {
+        "units_to_activate": 2
+      }
+    },
+    "prices": {
+      "regular": "129.99",
+      "discount": null,
+      "cpd_promo_price": "110.49",
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "% от 2 шт",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "200 г",
+    "has_age_restriction": false,
+    "stock_limit": "5.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2007992-main/320x320.jpeg"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2007992-main/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/c5a8874dd78cb49afd38e5f3ee41a589-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4420972,
+    "name": "Блинчики Delikaiser с ветчиной и сыром 420г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2039779-main/320x320.jpeg?updated_at=2026-06-17T14:28:33.027Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2039779-main/800x800.jpeg?updated_at=2026-06-17T14:28:33.027Z",
+        "https://catalog-images.x5static.net/product/f7b89575b1b02b729be45cf7192663e2-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.78,
+      "rates_count": 3247
+    },
+    "promo": null,
+    "prices": {
+      "regular": "254.99",
+      "discount": "149.99",
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": [
+      {
+        "label": "-41%",
+        "bg_color": "#FFD700",
+        "text_color": "#302E33"
+      }
+    ],
+    "cpd_labels": null,
+    "property_clarification": "420 г",
+    "has_age_restriction": false,
+    "stock_limit": "13.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2039779-main/320x320.jpeg?updated_at=2026-06-17T14:28:33.027Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2039779-main/800x800.jpeg?updated_at=2026-06-17T14:28:33.027Z",
+          "https://catalog-images.x5static.net/product/f7b89575b1b02b729be45cf7192663e2-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": null,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4393207,
+    "name": "Блинчики с ветчиной и сыром Пятёрочка Кафе 160г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/1850227-main/320x320.jpeg?updated_at=2025-09-24T17:52:46.646Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/1850227-main/800x800.jpeg?updated_at=2025-09-24T17:52:46.646Z",
+        "https://catalog-images.x5static.net/product/d2cdce1f52ef311da71903fb9ff1b7e7-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.64,
+      "rates_count": 1614
+    },
+    "promo": null,
+    "prices": {
+      "regular": "129.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "160 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1850227-main/320x320.jpeg?updated_at=2025-09-24T17:52:46.646Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1850227-main/800x800.jpeg?updated_at=2025-09-24T17:52:46.646Z",
+          "https://catalog-images.x5static.net/product/d2cdce1f52ef311da71903fb9ff1b7e7-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 70,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4426689,
+    "name": "Сырники Хэппи Монинг классические замороженные 240г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2048778-main/320x320.jpeg?updated_at=2025-09-24T18:01:49.180Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2048778-main/800x800.jpeg?updated_at=2025-09-24T18:01:49.180Z",
+        "https://catalog-images.x5static.net/product/10dab9ca151ff343d700a8809f91413c-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.86,
+      "rates_count": 275
+    },
+    "promo": null,
+    "prices": {
+      "regular": "254.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "240 г",
+    "has_age_restriction": false,
+    "stock_limit": "4.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2048778-main/320x320.jpeg?updated_at=2025-09-24T18:01:49.180Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2048778-main/800x800.jpeg?updated_at=2025-09-24T18:01:49.180Z",
+          "https://catalog-images.x5static.net/product/10dab9ca151ff343d700a8809f91413c-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 140,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  },
+  {
+    "plu": 4459748,
+    "name": "Тортилья с курицей и хашбрауном Пятёрочка Кафе, 240г",
+    "image_links": {
+      "small": [
+        "https://catalog-images.x5static.net/product/2162045-main/320x320.jpeg?updated_at=2026-05-28T13:08:33.384Z"
+      ],
+      "normal": [
+        "https://catalog-images.x5static.net/product/2162045-main/800x800.jpeg?updated_at=2026-05-28T13:08:33.384Z",
+        "https://catalog-images.x5static.net/product/70327f9db9037444875f6dab26b351c7-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/0397dfdc86a1fff1b070876f4309bfa1-additional/800x800.jpeg",
+        "https://catalog-images.x5static.net/product/9b23dc50d85699f53cdbad4b721e8be3-additional/800x800.jpeg"
+      ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+      "rating_average": 4.78,
+      "rates_count": 2889
+    },
+    "promo": null,
+    "prices": {
+      "regular": "229.99",
+      "discount": null,
+      "cpd_promo_price": null,
+      "cpd_promo_price_from_sum_cart": null,
+      "markdown": null
+    },
+    "labels": null,
+    "cpd_labels": null,
+    "property_clarification": "240 г",
+    "has_age_restriction": false,
+    "stock_limit": "1.00",
+    "median_price": null,
+    "media": {
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/2162045-main/320x320.jpeg?updated_at=2026-05-28T13:08:33.384Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/2162045-main/800x800.jpeg?updated_at=2026-05-28T13:08:33.384Z",
+          "https://catalog-images.x5static.net/product/70327f9db9037444875f6dab26b351c7-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/0397dfdc86a1fff1b070876f4309bfa1-additional/800x800.jpeg",
+          "https://catalog-images.x5static.net/product/9b23dc50d85699f53cdbad4b721e8be3-additional/800x800.jpeg"
+        ]
+      },
+      "vertical_image_links": {
+        "product_card": null
+      },
+      "video_links": null
+    },
+    "promo_progressive_labels": null,
+    "badges": [],
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "max_qty_per_order": null,
+    "orange_loyalty_points": 140,
+    "is_available": true,
+    "price_piece_unit": null,
+    "stickers": null,
+    "features": null,
+    "stock_limit_md": null,
+    "labels_md": null,
+    "orange_loyalty_points_md": null
+  }
+]

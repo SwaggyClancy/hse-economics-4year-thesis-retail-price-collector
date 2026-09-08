@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "timeZone": "Europe/Moscow",
+  "jobs": [
+    {
+      "chain": "pyaterochka",
+      "storesFile": "config/stores.pyaterochka.json",
+      "categoriesFile": "config/categories.pyaterochka.json"
+    },
+    {
+      "chain": "magnit",
+      "storesFile": "config/stores.magnit.json",
+      "categoriesFile": "config/categories.magnit.json"
+    }
+  ]
+}

@@ -1,0 +1,2108 @@
+[
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/zcSwRYyJWFK8Qrrm1fev8E9kSFit_qtp_sr3gsWZetg/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000115951/image/7beb6ef7bedae1464333f8d8baf587e3.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/xS5SFuLXcu4A2D9SA9cQ23uNRiwtGxY5eYrn1EOG0uA/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000115951/image/f123f07d74f4be7741f9c5441942e4b8.jpeg@webp"
+      }
+    ],
+    "id": "8000115951",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Колбаски свиные Гриль-чиз Ближние Горки 350г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 15999,
+    "productId": "8000115951",
+    "promotion": {
+      "discountPercent": 27,
+      "endDate": "2026-08-18T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 21999
+    },
+    "quantity": 3,
+    "ratings": {
+      "commentsCount": 6,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 49
+    },
+    "seoCode": "blizhnie_gorki_kolbaski_gril_chiz_svin_okhl_350g_lotok",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#D6FFAE",
+        "text": "Разные производители",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/IknrPMNnAvxc3YZE356kTmdmLjLkWw9B2pC43QlLes4/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000297735/image/192637f871878a3289b28bd0f02fa73b.jpeg@webp"
+      }
+    ],
+    "id": "1000297735",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Окорок свиной",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 28798,
+    "productId": "1000297735",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-22T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 3874,
+    "ratings": {
+      "commentsCount": 2465,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 24273
+    },
+    "seoCode": "okorok_svinoy",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.20кг",
+      "shelfWeight": 1200,
+      "step": 1200,
+      "unitLabel": "1кг",
+      "unitPrice": 23999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/JKTdKO3NQWN52jdzUUN2n3KNbZIKsyriAOzKm8jvGfw/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000067807/image/96b8e593951690e01f2ef3407dcfe050.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/bmw0Jp1xcuPNI278ukonhg6Z1aFR3v4jxj9J4LVARcA/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/8000067807/image/c38bc07dbd07d057bedbc1b9669f1b3d.jpeg@webp"
+      }
+    ],
+    "id": "8000067807",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Карбонад из свинины в классическом соусе Ближние горки 700г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 29999,
+    "productId": "8000067807",
+    "promotion": {
+      "discountPercent": 33,
+      "endDate": "2026-08-25T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 44999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 50,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 240
+    },
+    "seoCode": "blizhnie_gorki_karbonad_v_klass_souse_iz_svin_okhl_700g_v_u",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "backgroundColor": "#FF5858",
+        "text": "+1 шанс на приз",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/UnK6Y0hDDmV6Wk16PF_TLNCAaCoYV668w-XGIyfNj7M/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/e3f/e3f6d5db7b57bfd9a83c414746a73b1c/ebb267a86de669c0aa8230c22f10c86d.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/pbTBuLrnD9Xn9lpz9k8nOYeB3qAYhV7miTT4xVsmIjk/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/641/6418fa9ec0de2689f29c74c42526c3e9/74d137f9accad4aa9e5b6e98ac2df1a7.jpeg@webp"
+      }
+    ],
+    "id": "1000286032",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Стейк Самсон из свиной корейки в маринаде 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 25999,
+    "productId": "1000286032",
+    "promotion": {
+      "discountPercent": 13,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 29999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 452,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 3275
+    },
+    "seoCode": "samson_steyk_700619_0_4kg_lotok_ooo_myasokombinat_vsevolozhskiy_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/p5vt4Hj5N8XX30BrwAUjhQiNtt0wxJ1nSast1ksScRs/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/8a6/8a62bbeb3224c01a73fb6c2377dd1a82/74b3e207136daef5cedeb12a9c3e42d9.jpeg@webp"
+      }
+    ],
+    "id": "1000213557",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Рагу свиное Великолукский МК 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 5999,
+    "productId": "1000213557",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "4000-01-01T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 8,
+    "ratings": {
+      "commentsCount": 568,
+      "external": null,
+      "rating": 4.9,
+      "scoresCount": 6799
+    },
+    "seoCode": "ragu_svinoe_velikolukskiy_mk_400g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/bbZt49Mg6ixjn__sbMISFBMLiUXhxezn2uAMl6gWH3M/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/99f/99f20cf674eabb3bc83e2d842c9628df/a46cfd2027ab251a285920577663eb29.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/_cQP-IaVlWy9-iqvCy5eIXp3wHXSArQe0Phhyr8u2C0/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/959/959bd7e339becb5cd22a9be9e2c98d7d/d1a3a9d4fa6d330b6bfbeac20dc2b878.jpeg@webp"
+      }
+    ],
+    "id": "1000280179",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш Мираторг Домашний из свинины и говядины 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 17999,
+    "productId": "1000280179",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 8,
+    "ratings": {
+      "commentsCount": 1802,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 26676
+    },
+    "seoCode": "farsh_miratorg_domashniy_iz_svininy_i_govyadiny_400g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/g2malPg7X37r1V3l3hbPMN0enkYC-EkOhd1YkZDUKQk/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/ca7/ca71275aac41699b58350d39019880df/aa2c69f37f81a6196ea78cbd74226634.jpeg@webp"
+      }
+    ],
+    "id": "1000289065",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш М Свежесть Домашний 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 13999,
+    "productId": "1000289065",
+    "promoTag": "019aef8f-47ef-7722-9b8c-a4c576e972c2",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-09-01T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 14,
+    "ratings": {
+      "commentsCount": 2126,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 27729
+    },
+    "seoCode": "eatmeat_farsh_domashniy_0_4kg_lotok_ooo_mpk_atyashevskiy_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/a8z8q3AWudUiBfkAYzdlEkuqHs765KaidaGUTkz0sP0/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000382831/image/c877412147042998ae167329a9708815.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/WRDSnqXgFQ7JGVTflPtcD0mieKMzxIOW7anbB6QENLo/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000382831/image/6016212ad566d679a8dc1db0ebc70c48.jpeg@webp"
+      }
+    ],
+    "id": "1000382831",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Колбаски Ближние горки Баварские для жарки свиные 300г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 13999,
+    "productId": "1000382831",
+    "promotion": {
+      "discountPercent": 17,
+      "endDate": "2026-08-25T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 16999
+    },
+    "quantity": 5,
+    "ratings": {
+      "commentsCount": 59,
+      "external": null,
+      "rating": 4.9,
+      "scoresCount": 636
+    },
+    "seoCode": "blizhnie_gorki_kolbaski_4741_p_f_rublennye_kategorii_b_300g_lotok_ooo_kmpz_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/fWDYc310FzLnqpzOS1EFc12yspbp0KpBn8WUE-nEdUU/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/7f3/7f3d3071d2a1a3dbd6ce33e927a73240/00400fadb716b375716a73e9879b567e.jpeg@webp"
+      }
+    ],
+    "id": "1000289064",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш свиной М Свежесть 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 11999,
+    "productId": "1000289064",
+    "promoTag": "019aef8f-47ef-773f-843e-ac9070f58d18",
+    "promotion": {
+      "discountPercent": 25,
+      "endDate": "2026-09-01T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 15999
+    },
+    "quantity": 3,
+    "ratings": {
+      "commentsCount": 255,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 2860
+    },
+    "seoCode": "magnit_svezhest_farsh_svinoy_okhl_400g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/B-3141boyHAojJhc4QpAadC_W6-teXt1kH-zt5elijo/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/bd9/bd9af2b0b61db575455f4eb473e5572c/aefb15fabd96d4d091f8014ff27c2643.jpeg@webp"
+      }
+    ],
+    "id": "1000385426",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Карбонад свиной охлажденный",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 40698,
+    "productId": "1000385426",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-22T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 1974,
+    "ratings": {
+      "commentsCount": 987,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 10081
+    },
+    "seoCode": "sibagro_karbonad_svinoy_svinina_okhlazhdennaya_beskostnaya_bez_kozhi_v_vakuumnoy_upakovke_1kg_v_vaku",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.10кг",
+      "shelfWeight": 1100,
+      "step": 1100,
+      "unitLabel": "1кг",
+      "unitPrice": 36999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#AFF069",
+        "text": "Товар недели",
+        "textColor": "#3B5803"
+      },
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/OWyytNHnhjlfHHEOVBTaCFrMaMjrnoC-eGbCCTb14SI/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/faa/faad2d42c67e5a9e23c3e8aa83805020/aa6b1ace5bf4fdb8afd0c9d5541c317a.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/NWL4JKYqsEIaW-oPDw6LMCWdnFpRGKp-h7QTq3Md6Cc/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/66e/66e0ead223a48026a3fce004fad4d8a7/fc3f430e2c538d2047765f725b54efa2.jpeg@webp"
+      }
+    ],
+    "id": "1000428953",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Шашлык из свинины М Свежесть",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 60897,
+    "productId": "1000428953",
+    "promoTag": "019aef8f-47ef-7748-a462-f5bccb63b382",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 4282,
+    "ratings": {
+      "commentsCount": 1534,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 9287
+    },
+    "seoCode": "magnit_svezhest_shashlyk_iz_svininy_v_okhl_p_f_v_u",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "2.10кг",
+      "shelfWeight": 2100,
+      "step": 2100,
+      "unitLabel": "1кг",
+      "unitPrice": 28999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/xwrDT5l56LADFvR76tzaEYmU5DeLaWDE3RormgLrXNg/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/046/04667840131cf11a390a316c913bc76f/856e726c9cd307a590dc41408e0c214b.jpeg@webp"
+      }
+    ],
+    "id": "1000289909",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Шницель из свинины М Свежесть 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 20499,
+    "productId": "1000289909",
+    "promoTag": "019aef8f-47ef-770b-b723-d03755efa7f3",
+    "promotion": {
+      "discountPercent": 24,
+      "endDate": "4000-01-01T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 26999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 253,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 2856
+    },
+    "seoCode": "magnit_svezhest_shnitsel_iz_svininy_okhl_400g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/SDmIx2rmivJ5SCRg_ysk377ekgAUnIZfoGOfuek9heU/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/d4a/d4a0aa51eb108121a0fefb740c2830d2/c42b63caa040ae7b59cccd2ed113accb.jpeg@webp"
+      }
+    ],
+    "id": "1000522477",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Окорок свиной Фирменный Pignic",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 27999,
+    "productId": "1000522477",
+    "promotion": {
+      "discountPercent": 13,
+      "endDate": "2026-09-08T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 32199
+    },
+    "quantity": 1957,
+    "ratings": {
+      "commentsCount": 7,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 30
+    },
+    "seoCode": "pignik_okorok_svinoy_firmennyy_katb_v_u",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "700г",
+      "shelfWeight": 700,
+      "step": 700,
+      "unitLabel": "1кг",
+      "unitPrice": 39999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#D6FFAE",
+        "text": "Разные производители",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/nxtlctkqz-RLpE1op9rMHTrA9B_424dFRbda09xXXvQ/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/f7c/f7ccd8145bffa87abcaf87a61bb418ac/f1e4067378873856565e2c7e565bf449.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/5n_wyIvRe0u0aQ5lAnAVmiS4nMhGBUiqsCHmpZW7PWk/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/545/54578f87ec94f4175ffa30ec2b78bb68/8f309a7834d80d74d8d4aa014daea9d8.jpeg@webp"
+      }
+    ],
+    "id": "1000515660",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Вырезка свиная",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 51518,
+    "productId": "1000515660",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-22T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 3187,
+    "ratings": {
+      "commentsCount": 133,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 1228
+    },
+    "seoCode": "otrub-svinoy-krupnokuskovoy",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.40кг",
+      "shelfWeight": 1400,
+      "step": 1400,
+      "unitLabel": "1кг",
+      "unitPrice": 36799
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/3X_ErloPYgxKDig9NNmpWUXvLSacTj298FJFW4Nu9Vw/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000289063/image/ccfff007b2f9e1884f08829870dd9d56.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/AKV_GcviKM7c9jZIhZKuLk-lkFksagWiWM9SCe5jfvU/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000289063/image/5b2c824cd8eb578f694888e28d6a7200.jpeg@webp"
+      }
+    ],
+    "id": "1000289063",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Купаты М Свежесть cвиные 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 13999,
+    "productId": "1000289063",
+    "promoTag": "019aef8f-47ef-771d-b252-0c0b5848fa73",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-09-16T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 8,
+    "ratings": {
+      "commentsCount": 1856,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 19620
+    },
+    "seoCode": "eatmeat_kupaty_svinye_0_4kg_lotok_ooo_mpk_atyashevskiy_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/dqo2YLygGc7kMi5boLJ7ctuvTPua5FTwuaLMTZbER18/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/288/28863093bc5d7478381dc58aba830a03/562036dff8d8060babde31fa888a19dd.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/BHGDNXLwkkJ0fy-UKgNjG39Mx5zq2JaPoSCZUOSTJOA/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/7cd/7cdaa558ffe3582384d67a9b32e2b1ea/e5c268e3e6e5cc35365fa5902fc59e8b.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/ngAM9O2tp4Atk9ZK2rxI7Zie193mq2HUyWl2r5Q4EkA/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/592/592af4ea020400b2ab2b30e2ca325fa3/2c0aaf2e65ea78700f8e0dc41a321113.jpeg@webp"
+      }
+    ],
+    "id": "1000173502",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш Агро-Белогорье из свинины полуфабрикат 700г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 27999,
+    "productId": "1000173502",
+    "promotion": {
+      "discountPercent": 22,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 35999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 663,
+      "external": null,
+      "rating": 4.9,
+      "scoresCount": 8111
+    },
+    "seoCode": "farsh_iz_svininy_agro_belogore_polufabrikat_700g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/nqxUOrC_FABKytzi5IIH6qbl8bfwaoOvpQmly-k99lo/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/3a3/3a34d0ceb52c1dffd9a8ebbccd521d08/e39e7edea510cb83d4af98e7cadbc522.jpeg@webp"
+      }
+    ],
+    "id": "1000440905",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Колбаски Мираторг Немецкие 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 14999,
+    "productId": "1000440905",
+    "promotion": {
+      "discountPercent": 25,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 19999
+    },
+    "quantity": 3,
+    "ratings": {
+      "commentsCount": 210,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 1785
+    },
+    "seoCode": "miratorg_kolbaski_nemetskie_okhl_400g_v_up",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/GZAYheYA9l9Ts4oJmkkijHyywSiMM-Ofs1Y4qLIfOhY/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/8ed/8ed425f9d4d68232bfdd92629fda9601/61f1fd25ce55a786dfcecf7bf83d05ed.jpeg@webp"
+      }
+    ],
+    "id": "1000301758",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Стейк Мираторг Matured Beef Чак из мраморной говядины 290г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 36999,
+    "productId": "1000301758",
+    "promotion": {
+      "discountPercent": 21,
+      "endDate": "2026-10-27T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 46999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 114,
+      "external": null,
+      "rating": 4.1,
+      "scoresCount": 464
+    },
+    "seoCode": "steyk_miratorg_matured_beef_chak_mramornaya_govyadina_290g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/ZYq1b1cq0OPeu2cqgzAx447RJkfdjKleZVVgcRON_sc/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000134121/image/ef85109c6ff401a1b0740854d5830381.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/r24mqbjSu_Z4B91b7LRHppKaPNgEe8IleABtDiKL92o/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/a15/a152059ae3cbb81950495946da113ec9/48c7acedc853b33404b4383d5835ad79.jpeg@webp"
+      }
+    ],
+    "id": "1000134121",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Котлеты Черкизово Домашние 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 17999,
+    "productId": "1000134121",
+    "promotion": {
+      "discountPercent": 10,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 19999
+    },
+    "quantity": 3,
+    "ratings": {
+      "commentsCount": 625,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 6130
+    },
+    "seoCode": "myasn_pr_kotlety_domashnie_svin_govyazh_okhl0_4kg_lot_chmpz_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/QS5yl44RehptY__Q7CHKOucyr4msYORcGbs1kgAUNio/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/17d/17d1add81b4c73d26998e62819d21e7a/e2f74ea8b9b108bd18aee29d28e16906.jpeg@webp"
+      }
+    ],
+    "id": "1000289907",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш М Свежесть говяжий 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 20999,
+    "productId": "1000289907",
+    "promotion": {
+      "discountPercent": 27,
+      "endDate": "2026-09-29T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 28999
+    },
+    "quantity": 11,
+    "ratings": {
+      "commentsCount": 1298,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 13694
+    },
+    "seoCode": "farsh_eatmeat_govyazhiy_400g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#D6FFAE",
+        "text": "Разные производители",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/q0DuQmqxdvz5isuIwJyXGtfBFn489EhQthDKEPyWuls/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/345/3453c045e37268bd95cae80db8cc4ecb/1b725466beaa5bfbf1da657ec7ce1634.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/qLRqCJ1yYlLOXUkB7io4ujjkjCOkruWRowOR6tBBAN8/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/8bf/8bfb5948253bc5d03b9b382681c4d350/8603f5e132078186cf330e9db2040062.jpeg@webp"
+      }
+    ],
+    "id": "1000147233",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Шея свиная",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 61598,
+    "productId": "1000147233",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": "2026-08-22T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": null
+    },
+    "quantity": 1877,
+    "ratings": {
+      "commentsCount": 419,
+      "external": null,
+      "rating": 4.5,
+      "scoresCount": 3814
+    },
+    "seoCode": "sheya_svinaya_b_k_okhl_v",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.10кг",
+      "shelfWeight": 1100,
+      "step": 1100,
+      "unitLabel": "1кг",
+      "unitPrice": 55999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF5858",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "1 + 1 по карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/X0CYS_zrSlHdfe5ufwAUpWEbvSNnLt2R52jVL_88Lns/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/635/63504d7c019098c021476872d35fc0ce/925418a559624c8a832dc0dca6d2da38.jpeg@webp"
+      }
+    ],
+    "id": "1000447008",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Чевапчичи Классические Pignic 300г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 9999,
+    "productId": "1000447008",
+    "promotion": {
+      "discountPercent": 50,
+      "endDate": "2026-08-18T00:00:00Z",
+      "isPromotion": true,
+      "oldPrice": 19998
+    },
+    "quantity": 2,
+    "ratings": {
+      "commentsCount": 11,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 101
+    },
+    "seoCode": "pignic_chevapchichi_klassicheskie_okhl_300g_mgs_korall",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/HUuEsvvp2FUOK7AROw8OZMtLfIzQY4sKwZ1WkIMBk9Q/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/de0/de009ac06f3b4576bc1d4d454de7a811/527268758d5af166263594988465d908.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/GCqVGngg7XCXO7XKDq0zfvBnTIKadrxL1Yj_oPZw5Ek/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/c0e/c0e30af79985e819df9088a12b6c44ca/340703b4d9ac99e47a30431e0d97cf67.jpeg@webp"
+      }
+    ],
+    "id": "8000070751",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Стейк Флэнк из говядины Carnebravo 200г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 39999,
+    "productId": "8000070751",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 2,
+    "ratings": {
+      "commentsCount": 17,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 67
+    },
+    "seoCode": "carnebravo_steyk_flank_gov_okhl_200g_v_u_agroalyans",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/GBYu_wjU4Se7xfsyJdzcaKhgo4zf5J7HxaRg3q-Gdu4/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/8e3/8e3c9cfb088c61a146f00d57ed3fe1d4/95194a6699a387a66e84e4ac43ba7bcd.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/4M-nxVrT9saxYdew5g3qxPoi_ldu97GC5Du9U7elA_w/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/09f/09f984f1313ec11cc79ed5da8720efbc/c5befdd83146660edb01d3e358c6a93f.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/gxuD7HtvDvPAuG59HHGnHlyuAfiFZWo2qsdPY1K3HoY/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/8be/8bec68d4914cd000f9f28fc4578b57e3/934f9ac1ffd4d2dddf8d437de37fae84.jpeg@webp"
+      }
+    ],
+    "id": "1000173501",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Поджарка из свинины Агро-Белогорье полуфабрикат 700г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 31999,
+    "productId": "1000173501",
+    "promotion": {
+      "discountPercent": 17,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 38999
+    },
+    "quantity": 3,
+    "ratings": {
+      "commentsCount": 408,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 4933
+    },
+    "seoCode": "podzharka_iz_svininy_agro_belogore_polufabrikat_700g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#ECF8DE",
+        "text": "Только у нас",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/9YTSTyZo0pSP77-mb7TZZklMVumhH6WAiLKBRmVIlxU/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000449304/image/9bb8ea116d45b8f391051eb1700905bf.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/Oqcsw9RO1fBx3oh4s1iMUviYrqG3ztJB_sFOuk5kAV8/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000449304/image/15583ec64371b09428cba2d3ccddb467.jpeg@webp"
+      }
+    ],
+    "id": "1000449304",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Набор для борща свиной Моя цена замороженный",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 12428,
+    "productId": "1000449304",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 1150,
+    "ratings": {
+      "commentsCount": 59,
+      "external": null,
+      "rating": 4.8,
+      "scoresCount": 491
+    },
+    "seoCode": "moya_tsena_p_f_nabor_dlya_borshcha_svinoy_zam_v",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.10кг",
+      "shelfWeight": 1100,
+      "step": 1100,
+      "unitLabel": "1кг",
+      "unitPrice": 11299
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/eD6Nh6zwqA30iu4oThIJz0vb-rCapsLm2JvXQzzeb7E/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/7bb/7bb90891d94e2baf432f1f90690334bf/4be33982533e85a85f8df9444898a061.jpeg@webp"
+      }
+    ],
+    "id": "1000483005",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Ребрышки свиные Pignic Для гриля",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 65798,
+    "productId": "1000483005",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 1664,
+    "ratings": {
+      "commentsCount": 67,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 433
+    },
+    "seoCode": "pignik_rebryshki_svinye_dlya_grilya_katv_v_u",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.40кг",
+      "shelfWeight": 1400,
+      "step": 1400,
+      "unitLabel": "1кг",
+      "unitPrice": 46999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/FLdclS-BDmh37BOXElNTnrB282XAmRIwZfcBjCVNofQ/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/cee/cee06a50e4e1314748e6c6dbf8b8447c/aed95e6e84f42af3c162ffef3cb9fcc4.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/f-y98f-xpYoDtdwUvh35S-8VT9arzbTmtNw4JbS-vpw/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/986/986fc86509e6ff35c9a8dd4d6cdebcca/9c04feb59a488f66a73ecb26d760597f.jpeg@webp"
+      }
+    ],
+    "id": "1000301762",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Стейк Мираторг Black Angus Тендер мраморная говядина 260г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 33999,
+    "productId": "1000301762",
+    "promotion": {
+      "discountPercent": 20,
+      "endDate": "2026-10-27T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 42999
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 317,
+      "external": null,
+      "rating": 4.5,
+      "scoresCount": 2578
+    },
+    "seoCode": "steyk_miratorg_black_angus_tender_mramornaya_govyadina_260g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/xFFEz22FAq_Bzxg-NzlrOjINcRw8u3MTVnd_OFcr0pU/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000234165/image/8811735aa287c083c0169b9a84ef9cd2.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/kHQcJye6c2Lu9fzQ-RUhYAXz60oERcgFEfxMg823NnA/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000234165/image/b8566a3a4f885a836050d22349fc52b9.jpeg@webp"
+      }
+    ],
+    "id": "1000234165",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Чевапчичи Ближние Горки из свинины 300г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 18999,
+    "productId": "1000234165",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 112,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 1470
+    },
+    "seoCode": "chevapchichi_blizhnie_gorki_iz_svininy_300g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/4XtVQ53UWwE3XeS8HEB_B9dF2hmNNK7uA_XldrlNdlQ/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/f0c/f0c208081fb725434cb5a7ddf52727e9/2a6cf9cecfe8f0a29bab6bc1160dc300.jpeg@webp"
+      }
+    ],
+    "id": "1000203168",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Фарш Агро-Белогорье свиной замороженный 500г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 25999,
+    "productId": "1000203168",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 7,
+    "ratings": {
+      "commentsCount": 235,
+      "external": null,
+      "rating": 4.9,
+      "scoresCount": 1840
+    },
+    "seoCode": "myasn_pr_farsh_svinoy_zam_0_5kg_p_o_agro_belogore_mpz_12",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FFE5B3",
+        "text": "+1 попытка в игре",
+        "textColor": "#FF4D00"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/sW7W4RFvgIs1q0ca6piD3mCdkrBeBaw0C1BMo2X2Z58/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000202165/image/88272c4485416f2683fecc441c74cbef.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/U_WZo1tgO1TOFoCvlm2Es2kvXa_3WfJGnbSfEyCW1aQ/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000202165/image/f779e1b0040fd2659be9705b4146de36.jpeg@webp"
+      }
+    ],
+    "id": "1000202165",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Колбаски свиные Черкизово По-домашнему с чесноком 450г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 28999,
+    "productId": "1000202165",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 2,
+    "ratings": {
+      "commentsCount": 673,
+      "external": null,
+      "rating": 4.9,
+      "scoresCount": 8521
+    },
+    "seoCode": "kolbaski_po_domashnemu_cherkizovo_s_chesnokom_rublenye_450g",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/7ThUebBW0hF29YCGGbvJ0GAPcS27rWz6Fpk2RlCzsYM/rs:fit:416:416/plain/s3://img-dostavka/catalog/pim/goods/1000175220/image/2ec250a7c9962709e3300f13b69205a0.jpeg@webp"
+      }
+    ],
+    "id": "1000175220",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Чевапчичи Мираторг из говядины 300г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 25999,
+    "productId": "1000175220",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 1,
+    "ratings": {
+      "commentsCount": 203,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 1986
+    },
+    "seoCode": "miratorg_chevapchichi_iz_govyad_0_3kg_mgs_myasn_pr_bryanskaya_mk_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/JDb2VV0bWkun8MD0QkQQMuSu3-z6ccNhjectH_Cg_MA/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/ee1/ee18444c84e966751427409c6689cdf5/d915d3c96bbfd154ae02175b7757f589.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/IR8D_m-OpG3Kk-yzRQRW4YZkVOzDPWwX5JNMPEjERcc/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/b86/b86913058efd4f88851d1391295899f6/d77005f9747fed7b3648b7fcfc3e50d9.jpeg@webp"
+      }
+    ],
+    "id": "1000468789",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Рулька свиная Коралл на кости замороженная",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 38998,
+    "productId": "1000468789",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 1991,
+    "ratings": {
+      "commentsCount": 35,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 231
+    },
+    "seoCode": "rulka_svinaya_na_shkure_na_kosti",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.30кг",
+      "shelfWeight": 1300,
+      "step": 1300,
+      "unitLabel": "1кг",
+      "unitPrice": 29999
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#FF2A66",
+        "backgroundGradient": "gradient/loyalty/plus small",
+        "backgroundIcon": "Base / 24 / Loyalty / Bonus / White",
+        "text": "По карте",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/34ibAaI0aWLjoDKROScSubmUka9qrugOL-LFZdQAz1k/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/90b/90b8562b1184c6fe9fafae4e8bfd12aa/8faa5a376c7f3d8fa5fe68b741273b14.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/tkOrhX8CaQe70xm4GwmUTwYQZsklIBs95GMeM456-Xs/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/6f6/6f6006447a8d0f2174a62068691a52b8/ee6c59dbe80f61213d4c45c363ef93f9.jpeg@webp"
+      }
+    ],
+    "id": "1000161896",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Котлеты Мираторг из говядины 400г",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 24999,
+    "productId": "1000161896",
+    "promotion": {
+      "discountPercent": 16,
+      "endDate": "2026-08-11T23:59:59Z",
+      "isPromotion": true,
+      "oldPrice": 29999
+    },
+    "quantity": 2,
+    "ratings": {
+      "commentsCount": 573,
+      "external": null,
+      "rating": 4.7,
+      "scoresCount": 4338
+    },
+    "seoCode": "miratorg_kotlety_iz_gov_okhl_0_4kg_lotok_myasn_pr_bmk_8",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": false,
+      "minStep": null,
+      "shelfLabel": null,
+      "shelfWeight": null,
+      "step": null,
+      "unitLabel": null,
+      "unitPrice": null
+    }
+  },
+  {
+    "badges": [
+      {
+        "backgroundColor": "#D6FFAE",
+        "text": "Разные производители",
+        "textColor": "#3B5803"
+      }
+    ],
+    "catalogType": "1",
+    "gallery": [
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/DivsQKdblbJJg4uTP6hggDorGR7LVPGZ8ZGpj4Y_T0Q/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/290/290c8097df80bcaf1bacfb37a83ac993/7e5e4c92bbe7897cce50b5c62f4daf4f.jpeg@webp"
+      },
+      {
+        "type": "IMAGE",
+        "url": "https://images-foodtech.magnit.ru/jKqMBvlTQvTuz5v8LN2JwqRHMBzUr-l0b6sfGqzMGGc/rs:fit:416:416/plain/s3://img-dostavka/catalog/uf/7fa/7fab12a13c6b7b42992703e712b877e1/857ed326b0c33df00843c71aeb6b7225.jpeg@webp"
+      }
+    ],
+    "id": "1000304326",
+    "isAdditionalActionRequired": false,
+    "isBiometryRequired": false,
+    "isForAdults": false,
+    "isInFavorites": null,
+    "isLowStock": null,
+    "name": "Сердце свиное замороженное",
+    "needPassport": false,
+    "orderProperties": {
+      "minOrderQuantity": 1,
+      "orderStepQuantity": 1
+    },
+    "orders": null,
+    "pickupOnly": false,
+    "price": 53198,
+    "productId": "1000304326",
+    "promotion": {
+      "discountPercent": null,
+      "endDate": null,
+      "isPromotion": false,
+      "oldPrice": null
+    },
+    "quantity": 3294,
+    "ratings": {
+      "commentsCount": 185,
+      "external": null,
+      "rating": 4.6,
+      "scoresCount": 1467
+    },
+    "seoCode": "serdtse_svinoe_1kg_v_vakuumnaya_upakovka_ao_kirovskiy_myasokombinat_4",
+    "service": "core_mm",
+    "skuGroupId": null,
+    "skuIds": null,
+    "storeCode": "780019",
+    "targetCart": "core_mm",
+    "weighted": {
+      "isWeighted": true,
+      "minStep": 1,
+      "shelfLabel": "1.40кг",
+      "shelfWeight": 1400,
+      "step": 1400,
+      "unitLabel": "1кг",
+      "unitPrice": 37999
+    }
+  }
+]

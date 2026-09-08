@@ -1,0 +1,48 @@
+{
+  "name": "retail-collector",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Research-only retail price collector for Pyaterochka and Magnit; HSE economics thesis project.",
+  "author": "SwaggyClancy",
+  "license": "LicenseRef-Research-Only-NonCommercial-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwaggyClancy/hse-economics-4year-thesis-retail-price-collector.git"
+  },
+  "homepage": "https://github.com/SwaggyClancy/hse-economics-4year-thesis-retail-price-collector#readme",
+  "keywords": [
+    "hse", "economics", "thesis", "retail-prices", "price-monitoring",
+    "web-scraping", "playwright", "typescript", "pyaterochka", "magnit",
+    "research", "data-collection"
+  ],
+  "type": "module",
+  "scripts": {
+    "menu": "tsx src/menu.ts",
+    "quality": "tsx src/quality.ts",
+    "reprocess": "tsx src/reprocess.ts",
+    "daily": "tsx src/daily.ts",
+    "build": "tsc",
+    "collect:pyaterochka": "tsx src/index.ts",
+    "collect:pyaterochka:batch": "tsx src/index.ts --batch",
+    "profile:pyaterochka": "tsx src/index.ts --setup-profile",
+    "collect:magnit": "tsx src/magnit.ts",
+    "profile:magnit": "tsx src/magnit.ts --setup-profile",
+    "discover:stores": "tsx src/store-discovery/cli.ts",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/node": "^24.3.0",
+    "eslint": "^9.33.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.40.0",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@11.19.0"
+}

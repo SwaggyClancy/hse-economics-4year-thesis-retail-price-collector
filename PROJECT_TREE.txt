@@ -1,0 +1,14 @@
+retail-collector/
+├── README.md
+├── AGENTS.md
+├── .gitignore
+├── .env.example
+├── config/
+├── docs/
+├── old-scripts/
+├── samples/
+├── src/
+├── tests/
+├── profiles/
+├── data/
+└── logs/
