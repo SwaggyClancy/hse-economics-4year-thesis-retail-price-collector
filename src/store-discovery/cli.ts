@@ -8,7 +8,7 @@ import type { DiscoveryManifest } from "./core/types.js";
 import { discoverMagnitStores } from "./magnit/collector.js";
 import { PlaywrightMagnitDiscoveryClient } from "./magnit/page-client.js";
 import { discoverPyaterochkaStores } from "./pyaterochka/collector.js";
-import { generateGridPoints, type GeoJsonGeometry } from "./pyaterochka/grid.js";
+import { generateGridPoints, spreadDiscoveryPoints, type GeoJsonGeometry } from "./pyaterochka/grid.js";
 import { PlaywrightPyaterochkaDiscoveryClient } from "./pyaterochka/page-client.js";
 import type { DiscoveryPoint } from "./pyaterochka/types.js";
 
@@ -122,12 +122,21 @@ async function loadPoints(options: CliOptions): Promise<readonly DiscoveryPoint[
     throw new Error("Для Пятёрочки требуется --geometry <geojson> или --points <json>");
   }
   const geometry = extractGeometry(JSON.parse(await readFile(options.geometryPath, "utf8")) as unknown);
-  const allPoints = options.spacingMeters.flatMap((spacingMeters, level) => [
-    ...generateGridPoints(geometry, { spacingMeters, shiftFraction: 0, level: level * 2 + 1 }),
-    ...generateGridPoints(geometry, { spacingMeters, shiftFraction: 0.5, level: level * 2 + 2 }),
-  ]);
-  const unique = new Map(allPoints.map((point) => [`${point.latitude}:${point.longitude}`, point]));
-  return [...unique.values()].map((point, index) => ({ ...point, id: `P${index + 1}` }));
+  const seen = new Set<string>();
+  const points: DiscoveryPoint[] = [];
+  for (const [level, spacingMeters] of options.spacingMeters.entries()) {
+    const tier = [
+      ...generateGridPoints(geometry, { spacingMeters, shiftFraction: 0, level: level * 2 + 1 }),
+      ...generateGridPoints(geometry, { spacingMeters, shiftFraction: 0.5, level: level * 2 + 2 }),
+    ].filter((point) => {
+      const key = `${point.latitude}:${point.longitude}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+    points.push(...spreadDiscoveryPoints(tier, `${options.city}:${spacingMeters}`));
+  }
+  return points.map((point, index) => ({ ...point, id: `P${index + 1}` }));
 }
 
 function parsePoint(value: unknown, index: number): DiscoveryPoint {
