@@ -20,6 +20,7 @@ export interface PyaterochkaDiscoveryOptions {
   readonly minimumDelayMs: number;
   readonly maximumDelayMs: number;
   readonly maxAttempts: number;
+  readonly maximumConsecutiveFailures: number;
   readonly noStoreStatuses: readonly number[];
 }
 
@@ -42,25 +43,59 @@ export async function discoverPyaterochkaStores(
   const startedAt = checkpoint?.startedAt ?? new Date().toISOString();
   const stores = new Map((checkpoint?.stores ?? []).map((store) => [store.externalCode, store]));
   let rawRequestCount = checkpoint?.rawRequestCount ?? 0;
+  let failedRequestCount = checkpoint?.failedRequestCount ?? 0;
   const firstPointIndex = checkpoint?.completedPointCount ?? 0;
+  let consecutiveFailures = 0;
 
   for (let index = firstPointIndex; index < options.points.length; index += 1) {
     const point = options.points[index];
     if (point === undefined) continue;
-    const response = await fetchWithRetry(
-      () => client.fetchStore(point),
-      options,
-      options.noStoreStatuses,
-    );
+    let response: BrowserJsonResponse;
+    try {
+      response = await fetchWithRetry(
+        () => client.fetchStore(point),
+        options,
+        options.noStoreStatuses,
+      );
+    } catch (error) {
+      rawRequestCount += 1;
+      failedRequestCount += 1;
+      await storage.writeRawResponse(rawRequestCount, `point-${point.id}-failure`, {
+        point,
+        failedAt: new Date().toISOString(),
+        error: error instanceof Error
+          ? { name: error.name, message: error.message }
+          : { name: "UnknownError", message: String(error) },
+      });
+      await writeCheckpoint(
+        storage,
+        options.city,
+        startedAt,
+        index + 1,
+        rawRequestCount,
+        failedRequestCount,
+        stores,
+      );
+      consecutiveFailures += 1;
+      if (consecutiveFailures >= options.maximumConsecutiveFailures) {
+        throw new Error(
+          `Остановлено после ${consecutiveFailures} последовательных сетевых ошибок; ` +
+          "возможна защитная проверка Пятёрочки",
+        );
+      }
+      await delay(randomInteger(options.minimumDelayMs, options.maximumDelayMs));
+      continue;
+    }
+    consecutiveFailures = 0;
     rawRequestCount += 1;
     await storage.writeRawResponse(rawRequestCount, `point-${point.id}`, { point, response });
     if (options.noStoreStatuses.includes(response.status)) {
-      await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, stores);
+      await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, failedRequestCount, stores);
       continue;
     }
     const item = parseStoreResponse(response.body);
     if (item.has_delivery !== true) {
-      await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, stores);
+      await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, failedRequestCount, stores);
       continue;
     }
     const existing = stores.get(item.sap_code);
@@ -77,7 +112,7 @@ export async function discoverPyaterochkaStores(
     } else {
       existing.pointIds.push(point.id);
     }
-    await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, stores);
+    await writeCheckpoint(storage, options.city, startedAt, index + 1, rawRequestCount, failedRequestCount, stores);
     if (index + 1 < options.points.length) {
       await delay(randomInteger(options.minimumDelayMs, options.maximumDelayMs));
     }
@@ -120,6 +155,7 @@ export async function discoverPyaterochkaStores(
     startedAt,
     finishedAt: new Date().toISOString(),
     rawRequestCount,
+    failedRequestCount,
     uniqueStoreCount: normalized.length,
     stores: normalized.sort((left, right) => left.externalCode.localeCompare(right.externalCode)),
   };
@@ -163,6 +199,7 @@ async function writeCheckpoint(
   startedAt: string,
   completedPointCount: number,
   rawRequestCount: number,
+  failedRequestCount: number,
   stores: ReadonlyMap<string, PendingStore>,
 ): Promise<void> {
   await storage.writeCheckpoint({
@@ -172,6 +209,7 @@ async function writeCheckpoint(
     startedAt,
     completedPointCount,
     rawRequestCount,
+    failedRequestCount,
     stores: [...stores.values()],
   });
 }
@@ -180,6 +218,7 @@ interface PyaterochkaCheckpoint {
   readonly startedAt: string;
   readonly completedPointCount: number;
   readonly rawRequestCount: number;
+  readonly failedRequestCount: number;
   readonly stores: readonly PendingStore[];
 }
 
@@ -187,10 +226,15 @@ function parseCheckpoint(value: unknown, city: string): PyaterochkaCheckpoint | 
   if (value === null) return null;
   if (!isRecord(value) || value.chain !== "pyaterochka" || value.city !== city ||
       typeof value.startedAt !== "string" || typeof value.completedPointCount !== "number" ||
-      typeof value.rawRequestCount !== "number" || !Array.isArray(value.stores)) {
+      typeof value.rawRequestCount !== "number" ||
+      !(value.failedRequestCount === undefined || typeof value.failedRequestCount === "number") ||
+      !Array.isArray(value.stores)) {
     throw new Error("Некорректный checkpoint обнаружения Пятёрочки");
   }
-  return value as unknown as PyaterochkaCheckpoint;
+  return {
+    ...(value as unknown as PyaterochkaCheckpoint),
+    failedRequestCount: typeof value.failedRequestCount === "number" ? value.failedRequestCount : 0,
+  };
 }
 
 function isRecord(value: unknown): value is Record<string, unknown> {

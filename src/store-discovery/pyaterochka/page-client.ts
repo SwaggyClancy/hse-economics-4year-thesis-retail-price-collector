@@ -1,7 +1,7 @@
 import type { Page } from "playwright";
 import type { BrowserJsonResponse } from "../core/http.js";
 import type { Coordinates } from "../core/types.js";
-import type { PyaterochkaDiscoveryClient } from "./types.js";
+import type { PyaterochkaDiscoveryClient, PyaterochkaMapBounds } from "./types.js";
 
 interface BrowserFetchResult {
   readonly receivedAt: string;
@@ -20,6 +20,17 @@ export class PlaywrightPyaterochkaDiscoveryClient implements PyaterochkaDiscover
     url.search = new URLSearchParams({
       lon: String(point.longitude),
       lat: String(point.latitude),
+    }).toString();
+    return this.fetchJson(url.toString());
+  }
+
+  public fetchStoresMap(bounds: PyaterochkaMapBounds): Promise<BrowserJsonResponse> {
+    const url = new URL("https://5d.5ka.ru/api/cita/v1/stores/map");
+    url.search = new URLSearchParams({
+      top_latitude: String(bounds.topLatitude),
+      bottom_latitude: String(bounds.bottomLatitude),
+      left_longitude: String(bounds.leftLongitude),
+      right_longitude: String(bounds.rightLongitude),
     }).toString();
     return this.fetchJson(url.toString());
   }

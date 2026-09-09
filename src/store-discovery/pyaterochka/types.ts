@@ -17,5 +17,13 @@ export interface DiscoveryPoint extends Coordinates {
 
 export interface PyaterochkaDiscoveryClient {
   fetchStore(point: Coordinates): Promise<BrowserJsonResponse>;
+  fetchStoresMap(bounds: PyaterochkaMapBounds): Promise<BrowserJsonResponse>;
   geocode(query: string): Promise<BrowserJsonResponse>;
+}
+
+export interface PyaterochkaMapBounds {
+  readonly topLatitude: number;
+  readonly bottomLatitude: number;
+  readonly leftLongitude: number;
+  readonly rightLongitude: number;
 }

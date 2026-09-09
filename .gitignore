@@ -22,6 +22,8 @@ data/normalized/*
 data/state/*
 data/reports/
 !data/state/.gitkeep
+data/input/geography/source/
+data/input/pyaterochka-diagnostic-points.json
 
 logs/*
 !logs/.gitkeep

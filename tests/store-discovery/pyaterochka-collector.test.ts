@@ -26,6 +26,7 @@ describe("pyaterochka store discovery", () => {
         has_delivery: true,
         has_24h_delivery: false,
       })),
+      fetchStoresMap: () => Promise.resolve(response([])),
       geocode(query) {
         geocodeQueries.push(query);
         return Promise.resolve(response(query.includes(",") && /^\d/u.test(query)
@@ -43,6 +44,7 @@ describe("pyaterochka store discovery", () => {
       minimumDelayMs: 0,
       maximumDelayMs: 0,
       maxAttempts: 1,
+      maximumConsecutiveFailures: 3,
       noStoreStatuses: [404],
     });
     expect(result.uniqueStoreCount).toBe(1);

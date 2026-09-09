@@ -23,6 +23,7 @@ export interface DiscoveryManifest {
   readonly startedAt: string;
   readonly finishedAt: string;
   readonly rawRequestCount: number;
+  readonly failedRequestCount: number;
   readonly uniqueStoreCount: number;
   readonly stores: readonly DiscoveredStore[];
 }

@@ -60,7 +60,7 @@ export async function discoverMagnitStores(
     }));
   }
 
-  let completed = false;
+  let completed = expectedCodes.size > 0 && [...expectedCodes].every((code) => stores.has(code));
   for (let pass = 0; pass < options.maximumPasses && !completed; pass += 1) {
     const sizeBeforePass = stores.size;
     for (let pageNumber = 0; pageNumber < options.maximumPages; pageNumber += 1) {
@@ -128,6 +128,7 @@ export async function discoverMagnitStores(
     startedAt,
     finishedAt: new Date().toISOString(),
     rawRequestCount,
+    failedRequestCount: 0,
     uniqueStoreCount: stores.size,
     stores: [...stores.values()].sort((left, right) => left.externalCode.localeCompare(right.externalCode)),
   };

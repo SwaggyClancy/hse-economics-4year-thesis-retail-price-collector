@@ -54,6 +54,7 @@ async function main(): Promise<void> {
       city: manifest.city,
       uniqueStoreCount: manifest.uniqueStoreCount,
       rawRequestCount: manifest.rawRequestCount,
+      failedRequestCount: manifest.failedRequestCount,
       manifestPath,
       ...exports,
     }, null, 2));
@@ -87,16 +88,28 @@ async function runPyaterochka(
   options: CliOptions,
 ): Promise<DiscoveryManifest> {
   await page.goto("https://5ka.ru/", { waitUntil: "domcontentloaded", timeout: 60000 });
+  if (isPyaterochkaAccessChallengeUrl(page.url())) {
+    throw new Error(
+      "Пятёрочка запросила ручную защитную проверку. " +
+      "Откройте отдельный профиль командой profile:pyaterochka и завершите проверку вручную",
+    );
+  }
   const points = await loadPoints(options);
   console.log(`Подготовлено точек Пятёрочки: ${points.length}`);
   return discoverPyaterochkaStores(new PlaywrightPyaterochkaDiscoveryClient(page), storage, {
     city: options.city,
     points,
-    minimumDelayMs: 1500,
-    maximumDelayMs: 3000,
+    minimumDelayMs: 8000,
+    maximumDelayMs: 15000,
     maxAttempts: 3,
-    noStoreStatuses: [404],
+    maximumConsecutiveFailures: 3,
+    noStoreStatuses: [400, 404],
   });
+}
+
+export function isPyaterochkaAccessChallengeUrl(url: string): boolean {
+  const pathname = new URL(url).pathname;
+  return pathname.includes("/xpvnsulc/") || pathname.includes("/sp_rotated_captcha/");
 }
 
 async function loadPoints(options: CliOptions): Promise<readonly DiscoveryPoint[]> {
