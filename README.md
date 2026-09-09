@@ -141,6 +141,16 @@ pnpm run discover:stores -- --chain magnit --city "Санкт-Петербург
 координаты доставки и результаты объединяются по `sap_code`. Сохраняются raw,
 checkpoint, `stores.json`, `stores.csv` и `store-codes.txt`.
 
+Готовый запуск проверяется и публикуется в локальный нормализованный справочник
+отдельной командой:
+
+```powershell
+pnpm run publish:stores -- --run "data/raw/YYYY-MM-DD/magnit/store-discovery/имя-запуска"
+```
+
+Публикация добавляет отчёт качества и готовую группировку кодов и адресов по
+административным и муниципальным районам. Исходные ответы не изменяются.
+
 Подробнее: [RUN_STORE_DISCOVERY.md](docs/RUN_STORE_DISCOVERY.md).
 
 ## Ограничения

@@ -28,6 +28,7 @@
     "collect:magnit": "tsx src/magnit.ts",
     "profile:magnit": "tsx src/magnit.ts --setup-profile",
     "discover:stores": "tsx src/store-discovery/cli.ts",
+    "publish:stores": "tsx src/store-discovery/publish.ts",
     "lint": "eslint .",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
